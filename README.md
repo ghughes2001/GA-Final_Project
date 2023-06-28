@@ -1,5 +1,5 @@
 # GA-Final_Project
-    Have you ever been interested in coffee? I am a big coffee drinker and my final project idea is to analyze different brands of coffee based on different charcteristics. And find what type of coffee people enjoyed more.
+    Have you ever been interested in coffee? I am a big coffee drinker and my final project idea is to analyze different brands of coffee based on different charcteristics. And find what type of coffee people enjoyed more and what country produces the that coffee.
 
     A brief summary of your solution to the problem. Make this readable so a person without a technical background could understand how you solvebthe problem! If you can, include why your solution matters. (Brief: somewhere around 4-6 sentences, but this isn't a hard rule.)
 
