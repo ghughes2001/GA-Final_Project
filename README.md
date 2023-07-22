@@ -15,5 +15,10 @@ Summary:
         values when training data. Then, I train/test split the data (y = bags of coffee/x = "Aroma", "Flavor", "Aftertaste", "Acidity", "Body", "Balance", "Uniformity"). After splitting the data, I should be ready to run   
         the classifier on the data.
 
-CONTACT: pending
-RESOURCE: https://www.kaggle.com/datasets/volpatto/coffee-quality-database-from-cqi?resource=download&select=merged_data_cleaned.csv
+CONTACT:
+    
+    pending
+
+RESOURCE:
+    
+    https://www.kaggle.com/datasets/volpatto/coffee-quality-database-from-cqi?resource=download&select=merged_data_cleaned.csv
