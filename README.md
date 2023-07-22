@@ -10,9 +10,9 @@ Summary:
     FINAL-Reading-Data.ipynb
         - reads in the data and looks through it to see what is in the data and if information is all there. Then, I need to mess with the data. I will remove some of the unneccesary
         columns in dataframe. And save the new/updated version as a .csv file.
-    FINAL-Reading-Data.ipynb
+    FINAL-Analyzinf-Data-Part-1.ipynb
         - This is the file where I do a linear regression classifier on the data set. I first needed to chnage some of the non-numerical columns since it's easier to have numerical
-        values when training data. Then, I train/test split the data (y = bags of coffee/x = characteristics I want to analyze). After splitting the data, I should be ready to run   
+        values when training data. Then, I train/test split the data (y = bags of coffee/x = "Aroma", "Flavor", "Aftertaste", "Acidity", "Body", "Balance", "Uniformity"). After splitting the data, I should be ready to run   
         the classifier on the data.
 
 CONTACT: pending
