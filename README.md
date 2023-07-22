@@ -1,9 +1,10 @@
 # GA-Final_Project
 Summary:
 
-    Have you ever been interested in coffee? I am a big coffee drinker and my final project idea is analying coffee. I found some data on Kaggle and want to see how many bags of coffee have the best charcateristics and the bags origin. My first goal is to read in the data and store it as a variable in it's own file. Then, I am going to read the file using file input/output and use a linear regression classifier from sklearn for analyzing.
-    
-    A brief summary of your solution to the problem. Make this readable so a person without a technical background could understand how you solvebthe problem! If you can, include why your solution matters. (Brief: somewhere around 4-6 sentences, but this isn't a hard rule.)
+    Have you ever been interested in coffee? I am a big coffee drinker and my final project idea is analying coffee. I found some data on Kaggle and want to see how many bags of coffee have the best charcateristics.
+    My first goal is to read in the data and store it as a variable in it's own file. Then, I am going to save the new dataa set. Another file will split the data so I can get a more accurate predictions and decrease the chnaces of over/under-fitting. After splitting the set, I will then begin to run the regression classifier from sklearn for analyzing and graph it.
+    The second goal is to do the exact same split and linear regression classifier but look at different aspects.
+
  FILES:
  
     FINAL-Reading-Data.ipynb
