@@ -5,7 +5,9 @@ Summary:
     My first file reads in the data (already cleaned) and store it as a new updated table of the data I will use. This will be a new variable in stored as a .csv file. Then, I have anothwr file that uses matplotlib to graph data of the new table. This is where I can see the correleation between how many abgs of coffee have good characteristics. After I complete the previous two files, there will be a final file that runs the machine learning algorithm from sklearn. The first step will be to modify some of the data if I have strings in columns. My goal is to have all numerocal values. Then, I split the data so I can get a more accurate prediction and decrease the chances of over/under-fitting. After splitting the set, I start to run the regression classifier from sklearn for analyzing the data set and graphing the visualization.
 
 Problem Satement:
+
     My question is to see if there is any correlation between bags of coffee and the different characteristics
+
 Technical Soltion:
 
     The solution is implemented in python uses libraries like pandas for reading data, numpy for modifying the data, matplotlib to plot the data, train/test split to split the data into training and testing sets, and linear regression from sklearn for fitting data and finding the accuracy of that fit. And finally, I wrote two functions that takes in the dataframe file and reads the data then checks that said file for null values.
