@@ -1,6 +1,0 @@
-Unnamed: 0,Country.of.Origin,Number.of.Bags,Bag.Weight,Aroma,Flavor,Aftertaste,Acidity,Body,Balance,Uniformity,Clean.Cup,Sweetness,Cupper.Points,Total.Cup.Points,Moisture,Category.One.Defects,Quakers,Category.Two.Defects,altitude_low_meters,altitude_high_meters,altitude_mean_meters
-0,Ethiopia,300,60 kg,8.67,8.83,8.67,8.75,8.5,8.42,10.0,10.0,10.0,8.75,90.58,0.12,0,0.0,0,1950.0,2200.0,2075.0
-1,Ethiopia,300,60 kg,8.75,8.67,8.5,8.58,8.42,8.42,10.0,10.0,10.0,8.58,89.92,0.12,0,0.0,1,1950.0,2200.0,2075.0
-2,Guatemala,5,1,8.42,8.5,8.42,8.42,8.33,8.42,10.0,10.0,10.0,9.25,89.75,0.0,0,0.0,0,1600.0,1800.0,1700.0
-3,Ethiopia,320,60 kg,8.17,8.58,8.42,8.42,8.5,8.25,10.0,10.0,10.0,8.67,89.0,0.11,0,0.0,2,1800.0,2200.0,2000.0
-4,Ethiopia,300,60 kg,8.25,8.5,8.25,8.5,8.42,8.33,10.0,10.0,10.0,8.58,88.83,0.12,0,0.0,2,1950.0,2200.0,2075.0
