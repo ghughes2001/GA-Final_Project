@@ -20,11 +20,8 @@ Technical Soltion:
         - This is the file where I do a linear regression classifier on the data set. I first needed to chnage some of the non-numerical columns           since it's easier to have numerical values when training data. Then, I train/test split the data (y = bags of coffee/x = "Aroma",                "Flavor", "Aftertaste", "Acidity", "Body", "Balance", "Uniformity"). After splitting the data, I should be ready to run   
         the classifier on the data.
 
-CONTACT:
-granthughes636@gmail.com
-    
+CONTACT: 
     granthughes636@gmail.com
 
 RESOURCE:
-
 https://www.kaggle.com/datasets/volpatto/coffee-quality-database-from-cqi?resource=download&select=merged_data_cleaned.csv
